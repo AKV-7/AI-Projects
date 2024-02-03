@@ -1,0 +1,1 @@
+simply open the main.py and run the python program
